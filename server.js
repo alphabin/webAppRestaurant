@@ -28,11 +28,11 @@ var resAll = [];
 var uniqueID = 1;
 
 function populate(){
-    resAll.push(new Reservation("Jeff","8184714195","email@aol.com",uniqueID++));
-    resAll.push(new Reservation("Dan","8184724505","email@aol.com",uniqueID++));
-    resAll.push(new Reservation("Chatura","8184324595","email@aol.com",uniqueID++));
-    resAll.push(new Reservation("Jay","8184725295","email@aol.com", uniqueID++));
-    resAll.push(new Reservation("Jeff","8184724595","email@aol.com",uniqueID++));
+    // resAll.push(new Reservation("Jeff","8184714195","email@aol.com",uniqueID++));
+    // resAll.push(new Reservation("Dan","8184724505","email@aol.com",uniqueID++));
+    // resAll.push(new Reservation("Chatura","8184324595","email@aol.com",uniqueID++));
+    // resAll.push(new Reservation("Jay","8184725295","email@aol.com", uniqueID++));
+    // resAll.push(new Reservation("Jeff","8184724595","email@aol.com",uniqueID++));
 }
 
 populate();
